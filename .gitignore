@@ -1,0 +1,20 @@
+ /node_modules
+/storage/app/*
+/bootstrap/cache/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/storage/logs/*
+/vendor
+/tests
+.env
+.env.example
+.editorconfig
+.gitattributes
+.styleci.yml
+phpunit.xml
+webpack.mix.js
+node_modules
+package-lock.json
+node_modules
